@@ -1,0 +1,24 @@
+li{
+    text-align: left;
+}
+
+.cart-div-1{
+    border: 2px solid whitesmoke;
+    margin: 15px;
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.cart-div-2{
+    border: 2px solid whitesmoke;
+    margin: 15px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+    border-radius: 15px;
+    text-align: ;
+}
+
+.cart-div-2 h3{
+    text-align: left;
+}
